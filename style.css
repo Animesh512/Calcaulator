@@ -1,0 +1,17 @@
+input{
+    margin: 50px;
+    background-color: yellow;
+    padding: 20px;
+    border: 2px solid black;
+}
+button{
+    margin: 50px;
+    background-color: red;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 35px;
+}
+#result{
+    font-size: 50px;
+    margin: 50px;
+}
